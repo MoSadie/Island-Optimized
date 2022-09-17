@@ -1,0 +1,14 @@
+name = "Island Optimized"
+author = "MoSadie"
+version = "1.0.0"
+description = "Optimization pack for MCCi based on reccomendations by the Noxcrew."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d7cf64b26220bcf9046e3a2bea8a6d93ba813d1e7ffd9070b3c672335edbbf92"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
