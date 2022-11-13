@@ -1,0 +1,13 @@
+name = "Island Menu"
+filename = "island-menu-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T1u6xFhH/versions/jxiHn7ow/island-menu-1.1.jar"
+hash-format = "sha1"
+hash = "a48150762a2450be7bfe074ac376e02329fecb0f"
+
+[update]
+[update.modrinth]
+mod-id = "T1u6xFhH"
+version = "jxiHn7ow"

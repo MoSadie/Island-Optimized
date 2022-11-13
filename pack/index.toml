@@ -1,8 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
+hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
 metafile = true
 
 [[files]]
@@ -12,7 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+metafile = true
+
+[[files]]
+file = "mods/island-menu.pw.toml"
+hash = "6879e86379eee478ab45a57938ed9b44433f4becd9ba9dc8437f56089b1d6bc3"
 metafile = true
 
 [[files]]
@@ -27,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
@@ -37,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
+hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
 metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "e6b3f3c86088f64bd71b1df3f56b7d7e7eab5169561c64dc4dc31b50f1e9a97f"
+hash = "a2894bdd4a4b88ef55acc6ebf8063ecc4efd5731b497809692d13fe92180145c"
 metafile = true
 
 [[files]]
