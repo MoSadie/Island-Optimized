@@ -1,0 +1,14 @@
+name = "Island Optimized Creator Flavor"
+author = "MoSadie"
+version = "1.0.0"
+description = "Optimization pack for MCCi with Replay Mod included."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d6bbb2d09b6401a3c3bb472342b06e2824b0e935b2b73736a26df52234e34ec"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"

@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
@@ -28,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
 metafile = true
 
 [[files]]
@@ -61,6 +66,11 @@ hash = "a2894bdd4a4b88ef55acc6ebf8063ecc4efd5731b497809692d13fe92180145c"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
@@ -69,3 +79,16 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
+
+[[files]]
+file = "mods/toggle-sprint-display.pw.toml"
+hash = "cd9cfecb51e12c4880701edfceb267206df40595973ad94224c8f1f9eb48bac6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
+hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip"
+hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
