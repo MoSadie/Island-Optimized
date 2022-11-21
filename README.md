@@ -1,6 +1,7 @@
 # Island Optimized
 
-Island Optimized is a modpack designed for playing on the [MCC Island](https://mccisland.net) server. It is based on an [optimized client mod list by the Aeltumn of the Noxcrew](https://mccisland.net/threads/guide-optimized-client-for-playing-on-mcci.2943/).
+Island Optimized is a modpack designed for playing on the [MCC Island](https://mccisland.net) server.
+It is initally based on an [optimized client mod list by the Aeltumn of the Noxcrew](https://mccisland.net/threads/guide-optimized-client-for-playing-on-mcci.2943/).
 
 There are three flavors of the pack:
 
