@@ -1,0 +1,77 @@
+name: 'Pack CI'
+
+on:
+  - push
+
+jobs:
+  build-lite:
+    name: 'Build Lite Flavor'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout Repository'
+        uses: actions/checkout@v3
+
+      - name: 'Download Packwiz'
+        run: 'wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip'
+      - name: 'Extract Packwiz'
+        run: 'unzip packwiz.zip'
+      - name: 'Make Packwiz Executable'
+        run: 'chmod +x packwiz'
+      
+      - name: 'Build Lite Flavor Pack'
+        run: '../packwiz mr export'
+        working-directory: ./pack-lite
+
+      - name: 'Upload Artifact'
+        uses: actions/upload-action@v3.1.1
+        with:
+          name: 'Lite Flavor Pack'
+          path: './pack-lite/Island Optimized Lite Flavor-*.mrpack'
+
+  build-deluxe:
+    name: 'Build Deluxe Flavor'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout Repository'
+        uses: actions/checkout@v3
+
+      - name: 'Download Packwiz'
+        run: 'wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip'
+      - name: 'Extract Packwiz'
+        run: 'unzip packwiz.zip'
+      - name: 'Make Packwiz Executable'
+        run: 'chmod +x packwiz'
+      
+      - name: 'Build Deluxe Flavor Pack'
+        run: '../packwiz mr export'
+        working-directory: ./pack-deluxe
+
+      - name: 'Upload Artifact'
+        uses: actions/upload-action@v3.1.1
+        with:
+          name: 'Lite Deluxe Pack'
+          path: './pack-deluxe/Island Optimized Deluxe Flavor-*.mrpack'
+
+  build-creator:
+    name: 'Build Creator Flavor'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout Repository'
+        uses: actions/checkout@v3
+
+      - name: 'Download Packwiz'
+        run: 'wget -O packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip'
+      - name: 'Extract Packwiz'
+        run: 'unzip packwiz.zip'
+      - name: 'Make Packwiz Executable'
+        run: 'chmod +x packwiz'
+      
+      - name: 'Build Lite Creator Pack'
+        run: '../packwiz mr export'
+        working-directory: ./pack-creator
+
+      - name: 'Upload Artifact'
+        uses: actions/upload-action@v3.1.1
+        with:
+          name: 'Lite Creator Pack'
+          path: './pack-lite/Island Optimized Creator Flavor-*.mrpack'

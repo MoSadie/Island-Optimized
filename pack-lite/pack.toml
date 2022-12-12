@@ -1,13 +1,13 @@
 name = "Island Optimized Lite Flavor"
 author = "MoSadie"
-version = "1.0.0"
+version = "1.1.0"
 description = "Optimization pack for MCCi based on reccomendations by the Noxcrew."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0a0f7f414ef4d0b7c65baa1bf76e401f00cbc9823c85d21f89c232c9cbca84a4"
+hash = "54ab940e492dea08b9ce8d3aab5a4deb44f414a63dc091356360554dd4ea7d33"
 
 [versions]
 fabric = "0.14.9"
