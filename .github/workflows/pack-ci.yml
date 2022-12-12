@@ -23,7 +23,7 @@ jobs:
         working-directory: ./pack-lite
 
       - name: 'Upload Artifact'
-        uses: actions/upload-action@v3.1.1
+        uses: actions/upload-artifact@v3.1.1
         with:
           name: 'Lite Flavor Pack'
           path: './pack-lite/Island Optimized Lite Flavor-*.mrpack'
@@ -47,7 +47,7 @@ jobs:
         working-directory: ./pack-deluxe
 
       - name: 'Upload Artifact'
-        uses: actions/upload-action@v3.1.1
+        uses: actions/upload-artifact@v3.1.1
         with:
           name: 'Lite Deluxe Pack'
           path: './pack-deluxe/Island Optimized Deluxe Flavor-*.mrpack'
@@ -71,7 +71,7 @@ jobs:
         working-directory: ./pack-creator
 
       - name: 'Upload Artifact'
-        uses: actions/upload-action@v3.1.1
+        uses: actions/upload-artifact@v3.1.1
         with:
           name: 'Lite Creator Pack'
           path: './pack-lite/Island Optimized Creator Flavor-*.mrpack'
