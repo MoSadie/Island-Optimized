@@ -1,7 +1,7 @@
 # Island Optimized
 
 Island Optimized is a modpack designed for playing on the [MCC Island](https://mccisland.net) server.
-It is initally based on an [optimized client mod list by the Aeltumn of the Noxcrew](https://mccisland.net/threads/guide-optimized-client-for-playing-on-mcci.2943/).
+It is initially based on an [optimized client mod list by the Aeltumn of the Noxcrew](https://mccisland.net/threads/guide-optimized-client-for-playing-on-mcci.2943/).
 
 There are three flavors of the pack:
 
@@ -16,12 +16,11 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
 - [Island Menu](https://modrinth.com/mod/T1u6xFhH)
-- [Item Model Fix](https://modrinth.com/mod/B3HO5V57)
+- ~~[Item Model Fix](https://modrinth.com/mod/B3HO5V57)~~ (Currently not updated to 1.19.3, will re-add once updated)
 - [LazyDFU](https://modrinth.com/mod/hvFnDODi)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
-- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)
 - [Noxesium](https://modrinth.com/mod/Kw7Sm3Xf)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
@@ -34,11 +33,11 @@ This flavor is a bit more _deluxe_. It adds a few mods that I personally think a
 
 Every mod from the Lite flavor plus:
 - [LambDynamicsLights](https://modrinth.com/mod/yBW8D80W)
-- [Toggle Sprint Display](https://modrinth.com/shVMaevq)
+- ~~[Toggle Sprint Display](https://modrinth.com/shVMaevq)~~ (Currently not updated to 1.19.3, will re-add once updated)
 
 Included Shader Packs:
-- [Complementary Reimagined](https://www.complementary.dev/reimagined/)
-- [Complementary Shaders v4](https://www.complementary.dev/shaders-v4/)
+- [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)
+- [Complementary Shaders v4](https://modrinth.com/shader/R6NEzAwj)
 
 ## Creator
 
@@ -50,8 +49,8 @@ Every mod from the Deluxe flavor plus:
 - [Replay Mod](https://modrinth.com/mod/Nv2fQJo5)
 
 Included Shader Packs:
-- [Complementary Reimagined](https://www.complementary.dev/reimagined/)
-- [Complementary Shaders v4](https://www.complementary.dev/shaders-v4/)
+- [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)
+- [Complementary Shaders v4](https://modrinth.com/shader/R6NEzAwj)
 
 ---
 

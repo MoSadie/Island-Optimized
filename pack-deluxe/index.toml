@@ -2,37 +2,32 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "014aa43e2754f02f0503664394ba6b7a86e9fd10ed455c6521376546d75f843c"
+hash = "e87a52fb14288a8c503c76a40a18fb901de532b2805e84799c63d6202b3ce037"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
 
 [[files]]
 file = "mods/island-menu.pw.toml"
-hash = "6879e86379eee478ab45a57938ed9b44433f4becd9ba9dc8437f56089b1d6bc3"
-metafile = true
-
-[[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+hash = "17cb99619cab50a8fbbb3bb82692145856d1a3b0a95f93825ba65db5194ca90f"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
+hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
 metafile = true
 
 [[files]]
@@ -42,27 +37,27 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.pw.toml"
-hash = "aa983d292ed70747f91c209b2109f7316b309bfe385d0ba41226b6835479d1c8"
+hash = "c33d4c86ca2416368635e5cef98bf8babb019b74eb77249ceedaed81812494fd"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
 metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a2894bdd4a4b88ef55acc6ebf8063ecc4efd5731b497809692d13fe92180145c"
+hash = "e9426940c946cfec1fe54efe5a6ef95f24aef3a095d72edca399d61d1b8da9f4"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
 metafile = true
 
 [[files]]
@@ -71,18 +66,15 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/toggle-sprint-display.pw.toml"
-hash = "cd9cfecb51e12c4880701edfceb267206df40595973ad94224c8f1f9eb48bac6"
-metafile = true
-
-[[files]]
 file = "options.txt"
 hash = "b4e36b7cca41c0f49b0dbbebe3deae095e912998d47b41a6ea194177493667bd"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.3.2.zip"
-hash = "523e55a1b5a39d4f6c38b30b1384167ba663cf1a7281249bb35ca9a65f79b9b3"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "829f22ff7ec6a5a09d8d6353f91d79167018f2f71e2f144f188e19d4749b1a02"
+metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.6.zip"
-hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
+metafile = true
