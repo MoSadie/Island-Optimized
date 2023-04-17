@@ -49,7 +49,7 @@ jobs:
       - name: 'Upload Artifact'
         uses: actions/upload-artifact@v3.1.1
         with:
-          name: 'Lite Deluxe Pack'
+          name: 'Deluxe Flavor Pack'
           path: './pack-deluxe/Island Optimized Deluxe Flavor-*.mrpack'
 
   build-creator:
@@ -73,5 +73,5 @@ jobs:
       - name: 'Upload Artifact'
         uses: actions/upload-artifact@v3.1.1
         with:
-          name: 'Lite Creator Pack'
+          name: 'Creator Flavor Pack'
           path: './pack-creator/Island Optimized Creator Flavor-*.mrpack'
