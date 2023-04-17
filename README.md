@@ -17,7 +17,6 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
 - [Island Menu](https://modrinth.com/mod/T1u6xFhH)
 - ~~[Item Model Fix](https://modrinth.com/mod/B3HO5V57)~~ (Currently not updated to 1.19.4, will re-add once updated)
-- [LazyDFU](https://modrinth.com/mod/hvFnDODi)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
