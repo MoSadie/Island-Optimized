@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/island-menu.pw.toml"
-hash = "2a8b6a91f8163edef8cf9d90cd3cf8b5950b4902013cd016ee932d71e811e5af"
+hash = "3921cf24bb9a82b1c430eaf758b1ebdbfcd2963670bbdaf6bf1414eadcb18e31"
 metafile = true
 
 [[files]]
