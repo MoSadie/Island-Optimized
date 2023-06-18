@@ -11,24 +11,24 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 
 ### Mod List
 
-- [Exordium](https://modrinth.com/mod/DynYZEae)
+- ~~[Exordium](https://modrinth.com/mod/DynYZEae)~~ (Currently not updated to 1.20.1)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
 - [Island Menu](https://modrinth.com/mod/T1u6xFhH)
-- ~~[Item Model Fix](https://modrinth.com/mod/B3HO5V57)~~ (Currently not updated to 1.19.4, will re-add once updated)
+- ~~[Item Model Fix](https://modrinth.com/mod/B3HO5V57)~~ (Currently not updated to 1.20.1, will re-add once updated)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
-- [Noxesium](https://modrinth.com/mod/Kw7Sm3Xf)
+- ~~[Noxesium](https://modrinth.com/mod/Kw7Sm3Xf)~~ (Currently not updated to 1.20.1, pack will not update until this is updated)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
 - [Cloth Config](https://modrinth.com/mod/9s6osm5g)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)
 - [Krypton](https://modrinth.com/mod/fQEb0iXm)
-- [MixinTrace](https://modrinth.com/mod/sGmHWmeL)
-- [Smooth Boot (Fabric)](https://modrinth.com/mod/FWumhS4T)
+- ~~[MixinTrace](https://modrinth.com/mod/sGmHWmeL)~~ (Currently not updated to 1.20.1)
+- ~~[Smooth Boot (Fabric)](https://modrinth.com/mod/FWumhS4T)~~ (Currently not updated to 1.20.1)
 
 ## Deluxe
 
@@ -37,8 +37,8 @@ This flavor is a bit more _deluxe_. It adds a few mods that I personally think a
 ### Mod List
 
 Every mod from the Lite flavor plus:
-- [LambDynamicsLights](https://modrinth.com/mod/yBW8D80W)
-- ~~[Toggle Sprint Display](https://modrinth.com/shVMaevq)~~ (Currently not updated to 1.19.4, will re-add once updated)
+- ~~[LambDynamicsLights](https://modrinth.com/mod/yBW8D80W)~~ (Currently not updated to 1.20.1)
+- ~~[Toggle Sprint Display](https://modrinth.com/mod/shVMaevq)~~ (Currently not updated to 1.20.1, will re-add once updated)
 
 Included Shader Packs:
 - [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)
@@ -51,7 +51,7 @@ This flavor is designed for content creators. It has everything in the Deluxe fl
 ### Mod List
 
 Every mod from the Deluxe flavor plus:
-- [Replay Mod](https://modrinth.com/mod/Nv2fQJo5)
+- ~~[Replay Mod](https://modrinth.com/mod/Nv2fQJo5)~~ (Currently not updated to 1.20.1)
 
 Included Shader Packs:
 - [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)
