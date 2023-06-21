@@ -27,8 +27,7 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)
 - [Krypton](https://modrinth.com/mod/fQEb0iXm)
-- ~~[MixinTrace](https://modrinth.com/mod/sGmHWmeL)~~ (Currently not updated to 1.20.1)
-- ~~[Smooth Boot (Fabric)](https://modrinth.com/mod/FWumhS4T)~~ (Currently not updated to 1.20.1)
+- [MixinTrace](https://modrinth.com/mod/sGmHWmeL)
 
 ## Deluxe
 

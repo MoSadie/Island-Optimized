@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "608a8695cfb895209c599f72fac1f84da66f804fe00161edf29599401d45a87a"
+hash = "545beb1cefd357bd8ef0ca392b103ed216e20759e445766bd1bd6ac39e32c4d8"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+hash = "09ff0a483d906c6ab044287ae92f949dfd665436da4eee4e809f5a1c252942c8"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "d67690ddf7221c8d466cc5bdcbf3e0946998c685881b489465bf362bc4e7e8f3"
+hash = "62c23521132888870c113263a2355f3c4283b70acdb50f1d26b7f8ff5ea88260"
 metafile = true
 
 [[files]]
