@@ -37,7 +37,7 @@ This flavor is a bit more _deluxe_. It adds a few mods that I personally think a
 ### Mod List
 
 Every mod from the Lite flavor plus:
-- ~~[LambDynamicsLights](https://modrinth.com/mod/yBW8D80W)~~ (Currently not updated to 1.20.1)
+- [LambDynamicsLights](https://modrinth.com/mod/yBW8D80W)
 - ~~[Toggle Sprint Display](https://modrinth.com/mod/shVMaevq)~~ (Currently not updated to 1.20.1, will re-add once updated)
 
 Included Shader Packs:
@@ -51,7 +51,7 @@ This flavor is designed for content creators. It has everything in the Deluxe fl
 ### Mod List
 
 Every mod from the Deluxe flavor plus:
-- ~~[Replay Mod](https://modrinth.com/mod/Nv2fQJo5)~~ (Currently not updated to 1.20.1)
+- [Replay Mod](https://modrinth.com/mod/Nv2fQJo5)
 
 Included Shader Packs:
 - [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)
