@@ -16,7 +16,7 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
 - [Island Menu](https://modrinth.com/mod/T1u6xFhH)
-- ~~[Item Model Fix](https://modrinth.com/mod/B3HO5V57)~~ (Currently not updated to 1.19.4, will re-add once updated)
+- ~~[Item Model Fix](https://modrinth.com/mod/B3HO5V57)~~ (Currently not updated to 1.20.1, will re-add once updated)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
@@ -28,7 +28,6 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)
 - [Krypton](https://modrinth.com/mod/fQEb0iXm)
 - [MixinTrace](https://modrinth.com/mod/sGmHWmeL)
-- [Smooth Boot (Fabric)](https://modrinth.com/mod/FWumhS4T)
 
 ## Deluxe
 
@@ -38,7 +37,7 @@ This flavor is a bit more _deluxe_. It adds a few mods that I personally think a
 
 Every mod from the Lite flavor plus:
 - [LambDynamicsLights](https://modrinth.com/mod/yBW8D80W)
-- ~~[Toggle Sprint Display](https://modrinth.com/shVMaevq)~~ (Currently not updated to 1.19.4, will re-add once updated)
+- ~~[Toggle Sprint Display](https://modrinth.com/mod/shVMaevq)~~ (Currently not updated to 1.20.1, will re-add once updated)
 
 Included Shader Packs:
 - [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)
