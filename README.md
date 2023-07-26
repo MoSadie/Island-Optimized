@@ -11,7 +11,7 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 
 ### Mod List
 
-- ~~[Exordium](https://modrinth.com/mod/DynYZEae)~~ (Currently not updated to 1.20.1)
+- [Exordium](https://modrinth.com/mod/DynYZEae)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
@@ -20,7 +20,7 @@ This flavor is as true to the original mod list as possible. It is as optimized 
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Logical Zoom](https://modrinth.com/mod/8bOImuGU)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
-- ~~[Noxesium](https://modrinth.com/mod/Kw7Sm3Xf)~~ (Currently not updated to 1.20.1, pack will not update until this is updated)
+- [Noxesium](https://modrinth.com/mod/Kw7Sm3Xf)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
 - [Cloth Config](https://modrinth.com/mod/9s6osm5g)
