@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "e48e1afae8805196d8facff0851325f2a461d94f19cedfa6bdb4ef78fd0da5bb"
+hash = "4b3aa2a31aa0ab8c748561418200357b717f1ea9626672aea0653e862964a43f"
 metafile = true
 
 [[files]]
@@ -31,12 +31,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e306cd7e52af8a423bb5b189b20d82263b69bf1e6efb47e9bd054b7fd76f0517"
+hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
 metafile = true
 
 [[files]]
@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "081a81d7b1a1f81bfc0e4bf4269feebf8b05c7c0b84cdba2c3d873800e6f119c"
+hash = "a55f4889063e9e1fe44af534f0de2cd6354971f453cb921b5d71b4e32d5b7b8e"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
 metafile = true
 
 [[files]]

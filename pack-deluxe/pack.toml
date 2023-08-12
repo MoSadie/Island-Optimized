@@ -1,13 +1,13 @@
 name = "Island Optimized Deluxe Flavor"
 author = "MoSadie"
-version = "1.4.0"
+version = "1.4.1"
 description = "Optimization pack for MCCi with a few aesthetic additions."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9db028485674bc586578553040551dd9078d2a298e777e530095fea3c60bc2d"
+hash = "c2487d14d751e82bd5fc57c3f6dc7d7409ad28914a2bfff42ed31bf3d1467420"
 
 [versions]
 fabric = "0.14.21"
