@@ -6,7 +6,7 @@ hash = "545beb1cefd357bd8ef0ca392b103ed216e20759e445766bd1bd6ac39e32c4d8"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+hash = "da5355d446fc91093171b0d6a082e5056498eb59b5a6ec51f8f4d194a0abc58a"
 metafile = true
 
 [[files]]
@@ -21,22 +21,27 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "62d61fb372bdc57b4c5a3487c4394e8341dd125aee7b7ad8c9cf54b0f72b033f"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "c3da7fee119a0e3b4bd336e182af225340efe765e2b7409336aeb50a2468f5ec"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e60dfe0d44555b200e0ab643f7beaa90dde3d37c5e89fea7dcf11f94f581f5ae"
+hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
 metafile = true
 
 [[files]]
@@ -55,11 +60,6 @@ hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "abf7aa2002e6302905a9ef5997722dcc6c0f7e6e31c56dc307e6419fa99040fd"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
 metafile = true
@@ -71,12 +71,22 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "1275df3c714ce6fb52294e5c63b1fe2dd32dbe0d43714b4b9791eb9b3f2f45d3"
+hash = "ad4f051f0e7c6a67a229be92c2483b9ae1b7502bf6428fdb78b2452af313fcd6"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3fd697e0539879163b6a5649a587a4a82a2be58fb12e63128114f631a060adc8"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
 metafile = true
 
 [[files]]
