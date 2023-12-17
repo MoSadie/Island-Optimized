@@ -1,0 +1,13 @@
+name = "ServerMainMenu Lib"
+filename = "ServerMainMenu-Lib-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AbWEdxPY/versions/7SiRyTNo/ServerMainMenu-Lib-2.0.0.jar"
+hash-format = "sha1"
+hash = "5faf4ea6bb214a307901a7beab2a630fd0815ae2"
+
+[update]
+[update.modrinth]
+mod-id = "AbWEdxPY"
+version = "7SiRyTNo"

@@ -51,7 +51,7 @@ This flavor is designed for content creators. It has everything in the Deluxe fl
 ### Mod List
 
 Every mod from the Deluxe flavor plus:
-- ~~[Replay Mod](https://modrinth.com/mod/Nv2fQJo5)~~ (Currently not updated to 1.20.2, will re-add once updated)
+- [Replay Mod](https://modrinth.com/mod/Nv2fQJo5)
 
 Included Shader Packs:
 - [Complementary Reimagined](https://modrinth.com/shader/HVnmMxH1)

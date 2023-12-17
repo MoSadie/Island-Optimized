@@ -6,12 +6,12 @@ hash = "545beb1cefd357bd8ef0ca392b103ed216e20759e445766bd1bd6ac39e32c4d8"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "da5355d446fc91093171b0d6a082e5056498eb59b5a6ec51f8f4d194a0abc58a"
+hash = "3d6b086706dafceb5141954c666068d97b23aab0101836c955e826a0e43b78c6"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "625dddd14bf47324a945452cbd92e913877bb574883b086a73aa6fc07740ac44"
+hash = "d868173bd7570c503dcc7ff0197d1e4f3b323e47d05311d109087bb0f2fc7632"
 metafile = true
 
 [[files]]
@@ -21,12 +21,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -36,17 +36,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
+hash = "45eda4160256d4c4394a982c67167ff4b85e218834e60203128b850b38b4821b"
 metafile = true
 
 [[files]]
 file = "mods/island-menu.pw.toml"
-hash = "a6a298a175006bd8848de0ca53dd735d1aa8493360a2a42b184e1cde33f34b85"
+hash = "b2b699f42a35ba1b13ae1f8f623298d13c844f532830b5e75989fd30daf3951a"
 metafile = true
 
 [[files]]
@@ -76,12 +76,17 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "ad4f051f0e7c6a67a229be92c2483b9ae1b7502bf6428fdb78b2452af313fcd6"
+hash = "096e441242243ef93f9db36281d3338d4aee9b0a74a94f77c416a2c5b86a4040"
+metafile = true
+
+[[files]]
+file = "mods/smm-lib.pw.toml"
+hash = "8e759e5a6f8a1befa34fe1317e66a571be2a1cbe8389ee48c58bce86be98f729"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
+hash = "4198bbe1756d96d29a82f0134bcbd5f7a2b5c4447b8628fc19fda0d9c712f868"
 metafile = true
 
 [[files]]
@@ -105,5 +110,5 @@ hash = "b4e36b7cca41c0f49b0dbbebe3deae095e912998d47b41a6ea194177493667bd"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e51d06862a5c8191182f4fd7d9870313533afdcacdca3130cb37f8f5fc7bf635"
+hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
 metafile = true

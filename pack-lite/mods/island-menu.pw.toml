@@ -1,13 +1,13 @@
 name = "Island Menu"
-filename = "Island-Menu-1.3.3.jar"
+filename = "Island-Menu-1.4.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/T1u6xFhH/versions/FioFemQb/Island-Menu-1.3.3.jar"
+url = "https://cdn.modrinth.com/data/T1u6xFhH/versions/D03aekeD/Island-Menu-1.4.2.jar"
 hash-format = "sha1"
-hash = "9570ffaaee99ebf24014f3d280b555e7b7e18a12"
+hash = "5fc6c2955bda01cf30c006a23a0635e40e387fdd"
 
 [update]
 [update.modrinth]
 mod-id = "T1u6xFhH"
-version = "FioFemQb"
+version = "D03aekeD"
